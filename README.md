@@ -5,7 +5,10 @@ BOLD-BCI is a Bayesian Optimization and Learning Design for Next Generation Bund
 
 
 
+## Landscape efficiency frontiers: Where to put bundled crop insurance?
 
+
+![Landscape efficiency frontier](Spatial_Pareto.png)
 
 
 ## Acknowledgements

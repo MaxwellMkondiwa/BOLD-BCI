@@ -1,8 +1,7 @@
 # BOLD-BCI
-BOLD-BCI is a Bayesian Optimization and Learning Design for Next Generation Bundled Crop Insurance. The approach is used to optimize multiple objective or multiple agents.
+BOLD-BCI is a Bayesian Optimization and Learning Design for Next Generation Bundled Crop Insurance. The approach is used to optimize multiple objective for multiple agents.
 
-
-
+The detailed documentation of the model is in BOLD.pdf. 
 
 
 ## Landscape efficiency frontiers: Where to put bundled crop insurance?
